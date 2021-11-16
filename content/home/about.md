@@ -1,11 +1,15 @@
 ---
 widget: about
+active: true
+author: admin
 widget_id: Mohammad Yeghaneh
 headless: true
 weight: 20
 title: Biography
-active: true
-author: admin
+design:
+  background:
+    image: moha.jpg
+    image_darken: 0
 ---
 <!--StartFragment-->
 
